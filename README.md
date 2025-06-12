@@ -63,6 +63,6 @@ Face_Recognition_Python/
 
 ## 👩‍💻 Author
 **Shruti Shukla**
-Aspiring Data Scientist |https://www.linkedin.com/in/sshukla911/
+Aspiring Data Scientist |📍 [LinkedIn](https://www.linkedin.com/in/sshukla911/)
 
 Feel free to star ⭐ this repo if you found it useful!
